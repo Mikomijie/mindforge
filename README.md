@@ -131,9 +131,9 @@ mindforge/
 ## 👥 Team
 
 Built with ❤️ by:
-- **Mkingsofficial** - Lead Developer
-- **creativedivine** - Developer
-- **~Victoire** - Developer
+- **Michael Omijie**
+- **creativedivine** 
+- **~Victoire** 
 
 ## 🏆 Hackathon
 
