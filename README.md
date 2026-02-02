@@ -132,8 +132,8 @@ mindforge/
 
 Built with ❤️ by:
 - **Michael Omijie**
-- **creativedivine** 
-- **~Victoire** 
+- **Divine Banjoko** 
+- **Victoria** 
 
 ## 🏆 Hackathon
 
