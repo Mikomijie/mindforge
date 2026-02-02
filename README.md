@@ -1,6 +1,6 @@
-# mindforge
+# StudyPadi
 AI-powered adaptive learning platform
-# 🧠 MindForge - Adaptive Learning Platform
+# 🧠 StudyPadi - Adaptive Learning Platform
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://mindforgee.lovable.app/)
 [![Built with](https://img.shields.io/badge/built%20with-React-61dafb)](https://react.dev/)
@@ -112,7 +112,7 @@ npm run build
 
 ## 🗂️ Project Structure
 ```
-mindforge/
+studypadi/
 ├── src/
 │   ├── components/       # Reusable UI components
 │   │   ├── dashboard/    # Dashboard-specific components
@@ -141,7 +141,7 @@ Created for Hackathon - February 2026
 
 ## 🎨 Design Philosophy
 
-MindForge uses a calming, academic color palette inspired by nature:
+StudyPadi uses a calming, academic color palette inspired by nature:
 - Soft sage greens for focus and growth
 - Warm neutral backgrounds for comfort
 - Clear contrast for readability
@@ -209,8 +209,8 @@ Contributions are welcome! Please:
 
 For questions or issues:
 - Open a GitHub issue
-- Demo: [https://mindforgee.lovable.app/](https://mindforgee.lovable.app/)
+- Demo: [https://studypadi.lovable.app/](https://studypadi.lovable.app/)
 
 ---
 
-**Made with 🧠 and ⚡ by the MindForge Team**
+**Made with 🧠 and ⚡ by the StudyPadi Team**
