@@ -137,7 +137,7 @@ Built with ❤️ by:
 
 ## 🏆 Hackathon
 
-Created for Hackathon - February 2026
+Created for CWT Hackathon (Team Ares) - February 2026
 
 ## 🎨 Design Philosophy
 
